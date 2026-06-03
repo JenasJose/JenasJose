@@ -189,7 +189,7 @@ public class JenasJose {
 <div align="center">
 
 | 📜 Degree | 🏫 Institution | 📅 Year | 
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | B.Tech — Computer Science & Engineering | SRM Institute of Science and Technology | 2022 – 2026 | 
 
 </div>
