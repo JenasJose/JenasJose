@@ -31,7 +31,7 @@ public class JenasJose {
     String name        = "Jenas Jose";
     String location    = "Chennai, India";
     String degree      = "B.Tech Computer Science @ SRM IST";
-    float  cgpa        = 7.8f;
+    
 
     String[] stack = {
         "Java", "Python", "C",
@@ -145,7 +145,7 @@ public class JenasJose {
 
 > `Java` `Python` `C` `MySQL` `Data Structures` `Algorithms` `DBMS` `Operating Systems`
 
-- Maintaining a **CGPA of 7.8** across core CS subjects including DSA, DBMS, and OS
+
 - Built a **Blood Bank Management System** as a full-stack web application integrating Java and MySQL
 - Implemented graph traversal algorithms (**DFS/BFS**) and bit-manipulation techniques in practical projects
 - Developing strong foundations in **DBMS normalization** from 1NF through 4NF
@@ -174,7 +174,7 @@ public class JenasJose {
 
 | 🏷️ | Achievement | Details |
 |:---:|:---|:---|
-| 🎓 | **B.Tech CS — SRM IST** | CGPA: **7.8 / 10** |
+| 🎓 | **B.Tech CS — SRM IST** | 
 | 🗄️ | **DBMS Expertise** | Strong grasp of normalization from **1NF through 4NF** |
 | 🧩 | **DSA Problem Solver** | Solved problems using DFS/BFS, Bit Manipulation, and graph algorithms |
 | 💡 | **Full-Stack Project** | Designed and deployed Blood Bank Management System end-to-end |
@@ -188,7 +188,7 @@ public class JenasJose {
 
 <div align="center">
 
-| 📜 Degree | 🏫 Institution | 📅 Year | 🎯 Score |
+| 📜 Degree | 🏫 Institution | 📅 Year | 
 |:---:|:---:|:---:|:---:|
 | B.Tech — Computer Science & Engineering | SRM Institute of Science and Technology | 2022 – 2026 | 
 
