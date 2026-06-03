@@ -190,7 +190,7 @@ public class JenasJose {
 
 | 📜 Degree | 🏫 Institution | 📅 Year | 🎯 Score |
 |:---:|:---:|:---:|:---:|
-| B.Tech — Computer Science & Engineering | SRM Institute of Science and Technology | 2022 – 2026 | CGPA: 7.8 / 10 |
+| B.Tech — Computer Science & Engineering | SRM Institute of Science and Technology | 2022 – 2026 | 
 
 </div>
 
